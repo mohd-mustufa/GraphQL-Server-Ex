@@ -1,0 +1,25 @@
+{
+  "name": "graphql-server-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mohd-mustufa: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@github.com/mohd-mustufa/GraphQL-Server-Ex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohd-mustufa/GraphQL-Server-Ex/issues"
+  },
+  "homepage": "https://github.com/mohd-mustufa/GraphQL-Server-Ex#readme",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.9.5",
+    "graphql": "^16.8.1"
+  }
+}
